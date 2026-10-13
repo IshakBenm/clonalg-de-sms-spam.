@@ -11,6 +11,8 @@ authors:
     email: "hacene.belhadef@univ-constantine2.dz"
     affiliation: "NTIC Faculty, University of Constantine 2-Abdelhamid Mehri, Constantine 25016, Algeria"
 license: MIT
+doi: "10.5281/zenodo.23335141"
+version: "v1.0"
 repository-code: "https://github.com/<your-username>/clonalg-de-sms-spam"
 preferred-citation:
   type: article
