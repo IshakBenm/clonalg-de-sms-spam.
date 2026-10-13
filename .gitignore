@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+# datasets are not redistributed
+/data/*
+!/data/README.md
+# re-run outputs (the published results are in results/)
+/results_clonalg_de/
+/results_clonalg_de_quick/
+/results_revision/
+/results_final/
+/results_final_quick/
