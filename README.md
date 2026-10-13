@@ -1,5 +1,7 @@
 # CLONALG + DE-weighted ensemble for SMS spam detection
 
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23335141.svg)](https://doi.org/10.5281/zenodo.23335141) 
+
 Code and results for the article:
 
 > **Hybrid Bio-Inspired Feature Selection Under Feature Budgets: A Clonal Selection Wrapper with DE-Weighted Ensembles for SMS Spam Detection.** Ishak Benmohammed and Hacene Belhadef. *Algorithms* (submitted), 2026. DOI: to be added after publication.
@@ -87,6 +89,8 @@ depend on the machine (Intel Core i7, 10th generation, 16 GB RAM, CPU only in th
 * **Hacene Belhadef** (hacene.belhadef@univ-constantine2.dz) — NTIC Faculty, University of Constantine 2-Abdelhamid Mehri, Constantine 25016, Algeria
 
 ## Citation
+
+The archived code is available at https://doi.org/10.5281/zenodo.23335141  
 
 If you use this code, please cite the article (see `CITATION.cff`):
 
